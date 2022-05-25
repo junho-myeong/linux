@@ -1,2 +1,4 @@
 strcpy()
 https://www.programiz.com/c-programming/library-function/string.h/strcpy
+strncpy()
+https://blockdmask.tistory.com/348
